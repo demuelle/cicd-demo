@@ -41,7 +41,7 @@ const FilmCard = ({
               <strong>Directed By:</strong> {currentFilm.Director}
             </p>
             <p>
-              <strong>Starring:</strong> {currentFilm.Actors}
+              <strong>Featuring:</strong> {currentFilm.Actors}
             </p>
             <p>
               <strong>Released:</strong> {currentFilm.Released}
